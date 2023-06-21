@@ -1,0 +1,17 @@
+[
+    {
+        "titolo":"La spesa per PC, tablet e smartphone calerà nel 2023: le previsioni degli analisti",
+        "contenuto": "Con il potere d'acquisto dei consumatori in calo, il 2022 è stato negativo per PC, tablet e smartphone. Nonostante la ripresa delle spedizioni e della produzione di dispositivi, in tutto il mondo nel 2023 si potrebbe registrare un nuovo calo della spesa per prodotti tech che peggiorerebbe ulteriormente la situazione del mercato.",
+        "immagine" : "./img/CostoPC.png"
+    },
+    {
+        "titolo":"Il 2023 è arrivato: 3 questioni Tech con cui avremo a che fare",
+        "contenuto": "Il mondo della tecnologia non si ferma essenzialmente mai, se non per un rapido brindisi di Capodanno (tranquilli, ciò che state leggendo è stato scritta prima, anche se non troppo). In questo contesto, mentre i fuochi d'artificio pullulano, vale la pena soffermarsi (rapidamente, promesso) su 3 questioni Tech con cui avremo a che fare nel 2023.",
+        "immagine" : "./img/QuesitiTech.png"
+    },
+    {
+        "titolo":"BOE presenta primo display AMQLED 8K al mondo: è ancora in fase di sviluppo",
+        "contenuto": "Il produttore di display cinese BOE torna alla carica e mostra al pubblico le sue ultime tecnologie: dopo il prototipo del monitor da 27” da 500Hz di refresh rate, durante la SID Display Week 2022 a San Jose, in California, BOE ha presentato il primo “vero” pannello QLED da 55 pollici con risoluzione 8K.",
+        "immagine" : "./img/BOEDisplay.png"
+    }
+]

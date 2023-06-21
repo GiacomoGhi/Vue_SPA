@@ -1,0 +1,10 @@
+[
+    {
+        "titolo":"Cos'è la Realtà Aumentata?",
+        "contenuto": "La Realtà Aumentata (AR) è una tecnologia che permette, utilizzando tipicamente telecamere, display, sensori e software, di fondere contenuti digitali..."
+    },
+    {
+        "titolo":"Come implementare la AR nella tua applicazione Web",
+        "contenuto": "AR.js è un'efficiente libreria JavaScript di Realtà Aumentata per il Web. Funziona al 100% nel tuo browser, il che significa..."
+    }
+]
