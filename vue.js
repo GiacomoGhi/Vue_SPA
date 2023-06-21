@@ -292,24 +292,24 @@ const Iscriviti = {
                     <div class="card card-body">
                         <div class="form-floating mb-3">
                             <input v-model="nome" type="Name" class="form-control" id="first_name" placeholder="nome" name="iscriviti">
-                            <label for="floatingInput">Nome</label>
+                            <label for="first_name">Nome</label>
                             </div>
                         <div class="form-floating mb-3">
                             <input v-model="cognome" type="cognome" class="form-control" id="last_name" placeholder="cognome" name="iscriviti">
-                            <label for="floatingInput1">Cognome</label>
+                            <label for="last_name">Cognome</label>
                         </div>
                         <div class="form-floating mb-3">
                             <input v-model="email" type="email" class="form-control" id="email" placeholder="name@example.com" name="iscriviti">
-                            <label for="floatingInput2">Indirizzo Email</label>
+                            <label for="email">Indirizzo Email</label>
                         </div>
                         <div class="form-floating mb-3">
                             <input v-model="password" type="password" class="form-control" id="password" placeholder="Password" name="iscriviti">
-                            <label for="floatingPassword1">Password</label>
+                            <label for="password">Password</label>
                         </div>
                         <div class="form-floating mb-3">
                             <input v-model="professione" type="job_title" class="form-control" id="job_title"
                             placeholder="professione" name="iscriviti">
-                            <label for="floatingInput3">Professione</label>
+                            <label for="job_title">Professione</label>
                         </div>
                         <button @click="addElement" class="btn btn-outline-success" type="button">Iscrivimi</button>
                         <div id="error" class="text-danger text-center pt-2">Un utente con questa email esiste già!</div>
